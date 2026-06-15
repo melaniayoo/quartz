@@ -1,3 +1,91 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+:root {
+  --melania-navy: #1d3557;
+  --melania-deep: #0f172a;
+  --melania-bg: #f8fafc;
+  --melania-surface: #ffffff;
+  --melania-text: #1e293b;
+  --melania-muted: #64748b;
+  --melania-border: #e2e8f0;
+  --melania-chip: #e2e8f0;
+  --melania-chip-hover: #cbd5e1;
+}
+
+body {
+  background: var(--melania-bg);
+  color: var(--melania-text);
+}
+
+.page-title,
+.sidebar .page-title,
+h1,
+h2,
+h3 {
+  color: var(--melania-navy);
+}
+
+p,
+li {
+  color: var(--melania-text);
+}
+
+a {
+  color: var(--melania-navy);
+  text-underline-offset: 3px;
+}
+
+a:hover {
+  color: var(--melania-deep);
+}
+
+article {
+  max-width: 760px;
+}
+
+article p {
+  line-height: 1.75;
+}
+
+hr {
+  border-color: var(--melania-border);
+  opacity: 0.8;
+}
+
+/* Search */
+.search,
+.search > .search-button,
+.search input {
+  border-radius: 8px;
+}
+
+/* Internal links and tags */
+a.internal,
+.internal,
+.tag-link,
+a[href^="/quartz/tags/"] {
+  background: var(--melania-chip);
+  color: var(--melania-deep);
+  border-radius: 6px;
+  padding: 2px 6px;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+a.internal:hover,
+.internal:hover,
+.tag-link:hover,
+a[href^="/quartz/tags/"]:hover {
+  background: var(--melania-chip-hover);
+}
+
+/* Graph card */
+.graph {
+  border-radius: 10px;
+  border-color: var(--melania-border);
+}
+
+/* Optional: hide Quartz footer if still visible */
+footer {
+  display: none;
+}
