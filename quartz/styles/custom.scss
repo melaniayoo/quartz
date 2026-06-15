@@ -2,61 +2,95 @@
 
 :root {
   --melania-navy: #1d3557;
-  --melania-deep: #0f172a;
-  --melania-bg: #f8fafc;
+  --melania-soft-navy: #274c77;
+  --melania-bg: #fffdf7;
   --melania-surface: #ffffff;
-  --melania-text: #1e293b;
-  --melania-muted: #64748b;
-  --melania-border: #e2e8f0;
-  --melania-chip: #e2e8f0;
-  --melania-chip-hover: #cbd5e1;
+  --melania-text: #24324a;
+  --melania-muted: #6b7a90;
+  --melania-border: #e8e2d6;
+  --melania-chip: #f3efe3;
+  --melania-chip-hover: #eae2d0;
 }
 
+/* Overall page */
 body {
   background: var(--melania-bg);
   color: var(--melania-text);
 }
 
+/* Main title / headings */
 .page-title,
 .sidebar .page-title,
 h1,
 h2,
-h3 {
+h3,
+h4 {
   color: var(--melania-navy);
+  letter-spacing: -0.02em;
 }
 
+/* Body text */
 p,
 li {
   color: var(--melania-text);
+  line-height: 1.75;
 }
 
+/* Muted text */
+.content-meta,
+.reading-time,
+.date,
+.breadcrumb-container,
+.breadcrumb-container a {
+  color: var(--melania-muted);
+}
+
+/* Links */
 a {
-  color: var(--melania-navy);
+  color: var(--melania-soft-navy);
   text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
 }
 
 a:hover {
-  color: var(--melania-deep);
+  color: var(--melania-navy);
 }
 
+/* Article width */
 article {
   max-width: 760px;
 }
 
-article p {
-  line-height: 1.75;
-}
-
+/* Dividers */
 hr {
   border-color: var(--melania-border);
   opacity: 0.8;
+}
+
+/* Sidebar */
+.sidebar {
+  background: transparent;
+}
+
+.sidebar a {
+  color: var(--melania-muted);
+}
+
+.sidebar a:hover {
+  color: var(--melania-navy);
 }
 
 /* Search */
 .search,
 .search > .search-button,
 .search input {
-  border-radius: 8px;
+  border-radius: 10px;
+}
+
+.search > .search-button {
+  background: var(--melania-surface);
+  border: 1px solid var(--melania-border);
+  color: var(--melania-muted);
 }
 
 /* Internal links and tags */
@@ -65,9 +99,10 @@ a.internal,
 .tag-link,
 a[href^="/quartz/tags/"] {
   background: var(--melania-chip);
-  color: var(--melania-deep);
-  border-radius: 6px;
-  padding: 2px 6px;
+  color: var(--melania-navy);
+  border: 1px solid var(--melania-border);
+  border-radius: 7px;
+  padding: 2px 7px;
   font-weight: 600;
   text-decoration: none;
 }
@@ -77,15 +112,39 @@ a.internal:hover,
 .tag-link:hover,
 a[href^="/quartz/tags/"]:hover {
   background: var(--melania-chip-hover);
+  color: var(--melania-navy);
+}
+
+/* Note properties box */
+.page-properties,
+.property {
+  border-color: var(--melania-border);
+  background: rgba(255, 255, 255, 0.5);
 }
 
 /* Graph card */
 .graph {
-  border-radius: 10px;
+  border-radius: 12px;
   border-color: var(--melania-border);
+  background: var(--melania-surface);
 }
 
-/* Optional: hide Quartz footer if still visible */
+/* Backlinks */
+.backlinks a {
+  color: var(--melania-soft-navy);
+}
+
+.backlinks a:hover {
+  color: var(--melania-navy);
+}
+
+/* Code blocks */
+pre,
+code {
+  border-radius: 8px;
+}
+
+/* Remove Quartz footer */
 footer {
   display: none;
 }
