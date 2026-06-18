@@ -1,61 +1,91 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>https://melaniayoo.github.io/quartz/was</loc>
-    <lastmod>2026-06-18T02:09:01.163Z</lastmod>
+    <lastmod>2026-06-18T02:26:18.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/cia-triad</loc>
+    <lastmod>2026-06-18T02:26:18.000Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/comptia-security+</loc>
-    <lastmod>2026-06-15T04:51:59.000Z</lastmod>
+    <lastmod>2026-06-18T02:26:18.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/computer-network</loc>
+    <lastmod>2026-06-18T02:26:18.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/cryptography</loc>
+    <lastmod>2026-06-18T02:26:18.000Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/cybersecurity</loc>
-    <lastmod>2026-06-15T04:51:59.000Z</lastmod>
+    <lastmod>2026-06-18T02:26:18.000Z</lastmod>
   </url><url>
-    <loc>https://melaniayoo.github.io/quartz/ece-106</loc>
-    <lastmod>2026-06-16T01:15:22.890Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/ece-124</loc>
-    <lastmod>2026-06-16T01:15:52.017Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/ece-140</loc>
-    <lastmod>2026-06-16T01:16:10.443Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/ece-204</loc>
-    <lastmod>2026-06-16T01:17:02.002Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/ece-205</loc>
-    <lastmod>2026-06-16T01:17:30.855Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/ece-222</loc>
-    <lastmod>2026-06-16T01:14:57.638Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/ece-240</loc>
-    <lastmod>2026-06-16T01:16:41.850Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/ece-250</loc>
-    <lastmod>2026-06-16T01:13:58.285Z</lastmod>
+    <loc>https://melaniayoo.github.io/quartz/defense-in-depth</loc>
+    <lastmod>2026-06-18T02:26:18.000Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/</loc>
     <lastmod>2026-06-15T04:51:59.000Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/load-balancing</loc>
-    <lastmod>2026-06-18T02:06:01.599Z</lastmod>
+    <lastmod>2026-06-18T02:26:18.000Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/redis</loc>
-    <lastmod>2026-06-18T02:07:46.861Z</lastmod>
+    <lastmod>2026-06-18T02:26:18.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/risk-management</loc>
+    <lastmod>2026-06-18T02:26:18.000Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/semiconductor</loc>
-    <lastmod>2026-06-16T01:11:15.604Z</lastmod>
+    <lastmod>2026-06-18T02:26:18.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/social-engineering</loc>
+    <lastmod>2026-06-18T02:26:18.000Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/thread-scheduling</loc>
-    <lastmod>2026-06-16T01:11:17.575Z</lastmod>
+    <lastmod>2026-06-18T02:26:18.000Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/thread</loc>
-    <lastmod>2026-06-16T01:10:58.245Z</lastmod>
+    <lastmod>2026-06-18T02:26:18.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/university-of-waterloo</loc>
+    <lastmod>2026-06-18T02:26:18.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/vulnerability-management</loc>
+    <lastmod>2026-06-18T02:26:18.000Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/websocket</loc>
-    <lastmod>2026-06-18T02:10:53.343Z</lastmod>
+    <lastmod>2026-06-18T02:26:18.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/zero-trust</loc>
+    <lastmod>2026-06-18T02:26:18.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/ssl-and-tls</loc>
+    <lastmod>2026-06-18T07:30:21.253Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/ece106</loc>
+    <lastmod>2026-06-16T01:15:22.890Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/ece124</loc>
+    <lastmod>2026-06-16T01:15:52.017Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/ece140</loc>
+    <lastmod>2026-06-16T01:16:10.443Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/ece204</loc>
+    <lastmod>2026-06-16T01:17:02.002Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/ece205</loc>
+    <lastmod>2026-06-16T01:17:30.855Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/ece222</loc>
+    <lastmod>2026-06-16T01:14:57.638Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/ece240</loc>
+    <lastmod>2026-06-16T01:16:41.850Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/ece250</loc>
+    <lastmod>2026-06-16T01:13:58.285Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/tags/certification</loc>
-    <lastmod>2026-06-18T02:10:53.842Z</lastmod>
+    <lastmod>2026-06-18T07:35:49.032Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/tags/</loc>
-    <lastmod>2026-06-18T02:10:53.842Z</lastmod>
+    <lastmod>2026-06-18T07:35:49.032Z</lastmod>
   </url></urlset>

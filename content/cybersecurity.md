@@ -6,4 +6,4 @@ Cybersecurity is about understanding how systems break, how people make mistakes
 
 I became interested in cybersecurity through internship, and studying security fundamentals.
 
-Related: [[CompTIA Security+]] [[SSL/TLS]] [[Cryptography]] [[Computer Network]]
+Related: [[CompTIA Security+]]

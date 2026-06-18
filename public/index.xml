@@ -10,61 +10,61 @@
     <link>https://melaniayoo.github.io/quartz/tags/certification</link>
     <guid>https://melaniayoo.github.io/quartz/tags/certification</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Thu, 18 Jun 2026 02:10:53 GMT</pubDate>
+    <pubDate>Thu, 18 Jun 2026 07:35:49 GMT</pubDate>
   </item><item>
     <title>Tag Index</title>
     <link>https://melaniayoo.github.io/quartz/tags/</link>
     <guid>https://melaniayoo.github.io/quartz/tags/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Thu, 18 Jun 2026 02:10:53 GMT</pubDate>
+    <pubDate>Thu, 18 Jun 2026 07:35:49 GMT</pubDate>
   </item><item>
-    <title>WebSocket</title>
-    <link>https://melaniayoo.github.io/quartz/websocket</link>
-    <guid>https://melaniayoo.github.io/quartz/websocket</guid>
-    <description><![CDATA[ WebSocket is a technology that allows real-time two-way communication between a client and a server. ]]></description>
-    <pubDate>Thu, 18 Jun 2026 02:10:53 GMT</pubDate>
+    <title>SSL/TLS</title>
+    <link>https://melaniayoo.github.io/quartz/ssl-and-tls</link>
+    <guid>https://melaniayoo.github.io/quartz/ssl-and-tls</guid>
+    <description><![CDATA[ SSL/TLS is a security protocol used to protect data sent over the internet. ]]></description>
+    <pubDate>Thu, 18 Jun 2026 07:30:21 GMT</pubDate>
   </item><item>
     <title>WAS (Web Application Server)</title>
     <link>https://melaniayoo.github.io/quartz/was</link>
     <guid>https://melaniayoo.github.io/quartz/was</guid>
     <description><![CDATA[ A WAS is the server that runs the main business logic of a web application. A Spring Boot backend server can be considered a WAS. ]]></description>
-    <pubDate>Thu, 18 Jun 2026 02:09:01 GMT</pubDate>
+    <pubDate>Thu, 18 Jun 2026 02:26:18 GMT</pubDate>
   </item><item>
-    <title>Redis</title>
-    <link>https://melaniayoo.github.io/quartz/redis</link>
-    <guid>https://melaniayoo.github.io/quartz/redis</guid>
-    <description><![CDATA[ Redis is an in-memory data store. It stores data in memory, so it is much faster than a traditional disk-based database. ]]></description>
-    <pubDate>Thu, 18 Jun 2026 02:07:46 GMT</pubDate>
+    <title>CIA Triad</title>
+    <link>https://melaniayoo.github.io/quartz/cia-triad</link>
+    <guid>https://melaniayoo.github.io/quartz/cia-triad</guid>
+    <description><![CDATA[ The CIA Triad is a basic cybersecurity model used to protect information. ]]></description>
+    <pubDate>Thu, 18 Jun 2026 02:26:18 GMT</pubDate>
   </item><item>
-    <title>Load Balancing</title>
-    <link>https://melaniayoo.github.io/quartz/load-balancing</link>
-    <guid>https://melaniayoo.github.io/quartz/load-balancing</guid>
-    <description><![CDATA[ Load balancing means distributing traffic across multiple servers. When many users access a service, one server may become overloaded. ]]></description>
-    <pubDate>Thu, 18 Jun 2026 02:06:01 GMT</pubDate>
+    <title>CompTIA Security+</title>
+    <link>https://melaniayoo.github.io/quartz/comptia-security+</link>
+    <guid>https://melaniayoo.github.io/quartz/comptia-security+</guid>
+    <description><![CDATA[ Main Areas Security Fundamentals Cybersecurity CIA Triad Defense in Depth Zero Trust Threats and Vulnerabilities Vulnerability Management Social Engineering Risk and Governance Risk Management Cryptography and Network Security Cryptography SSL and TLS Computer Network . ]]></description>
+    <pubDate>Thu, 18 Jun 2026 02:26:18 GMT</pubDate>
   </item><item>
-    <title>ECE205 - Advanced Calculus 1</title>
-    <link>https://melaniayoo.github.io/quartz/ece-205</link>
-    <guid>https://melaniayoo.github.io/quartz/ece-205</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Tue, 16 Jun 2026 01:17:30 GMT</pubDate>
+    <title>Computer Network</title>
+    <link>https://melaniayoo.github.io/quartz/computer-network</link>
+    <guid>https://melaniayoo.github.io/quartz/computer-network</guid>
+    <description><![CDATA[ A computer network is a group of connected devices that can communicate and share data with each other. ]]></description>
+    <pubDate>Thu, 18 Jun 2026 02:26:18 GMT</pubDate>
   </item><item>
-    <title>ECE204 - Numerical Methods</title>
-    <link>https://melaniayoo.github.io/quartz/ece-204</link>
-    <guid>https://melaniayoo.github.io/quartz/ece-204</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Tue, 16 Jun 2026 01:17:02 GMT</pubDate>
+    <title>Cryptography</title>
+    <link>https://melaniayoo.github.io/quartz/cryptography</link>
+    <guid>https://melaniayoo.github.io/quartz/cryptography</guid>
+    <description><![CDATA[ Cryptography is the practice of protecting information by converting it into a secure form. ]]></description>
+    <pubDate>Thu, 18 Jun 2026 02:26:18 GMT</pubDate>
   </item><item>
-    <title>ECE240 - Electronic Circuits 1</title>
-    <link>https://melaniayoo.github.io/quartz/ece-240</link>
-    <guid>https://melaniayoo.github.io/quartz/ece-240</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Tue, 16 Jun 2026 01:16:41 GMT</pubDate>
+    <title>Cybersecurity</title>
+    <link>https://melaniayoo.github.io/quartz/cybersecurity</link>
+    <guid>https://melaniayoo.github.io/quartz/cybersecurity</guid>
+    <description><![CDATA[ Cybersecurity is about understanding how systems break, how people make mistakes, and how to protect information from threats. ]]></description>
+    <pubDate>Thu, 18 Jun 2026 02:26:18 GMT</pubDate>
   </item><item>
-    <title>ECE140 - Linear Circuits</title>
-    <link>https://melaniayoo.github.io/quartz/ece-140</link>
-    <guid>https://melaniayoo.github.io/quartz/ece-140</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Tue, 16 Jun 2026 01:16:10 GMT</pubDate>
+    <title>Defense in Depth</title>
+    <link>https://melaniayoo.github.io/quartz/defense-in-depth</link>
+    <guid>https://melaniayoo.github.io/quartz/defense-in-depth</guid>
+    <description><![CDATA[ Defense in Depth is a cybersecurity strategy that uses multiple layers of protection. ]]></description>
+    <pubDate>Thu, 18 Jun 2026 02:26:18 GMT</pubDate>
   </item>
     </channel>
   </rss>
