@@ -10,61 +10,61 @@
     <link>https://melaniayoo.github.io/quartz/tags/certification</link>
     <guid>https://melaniayoo.github.io/quartz/tags/certification</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Thu, 18 Jun 2026 07:35:49 GMT</pubDate>
+    <pubDate>Tue, 04 Aug 2026 04:52:07 GMT</pubDate>
   </item><item>
     <title>Tag Index</title>
     <link>https://melaniayoo.github.io/quartz/tags/</link>
     <guid>https://melaniayoo.github.io/quartz/tags/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Thu, 18 Jun 2026 07:35:49 GMT</pubDate>
+    <pubDate>Tue, 04 Aug 2026 04:52:07 GMT</pubDate>
   </item><item>
-    <title>SSL/TLS</title>
-    <link>https://melaniayoo.github.io/quartz/ssl-and-tls</link>
-    <guid>https://melaniayoo.github.io/quartz/ssl-and-tls</guid>
-    <description><![CDATA[ SSL/TLS is a security protocol used to protect data sent over the internet. ]]></description>
-    <pubDate>Thu, 18 Jun 2026 07:30:21 GMT</pubDate>
+    <title>Semiconductor</title>
+    <link>https://melaniayoo.github.io/quartz/semiconductor/</link>
+    <guid>https://melaniayoo.github.io/quartz/semiconductor/</guid>
+    <description><![CDATA[ A semiconductor is a material that can act as both a conductor and an insulator depending on conditions. ]]></description>
+    <pubDate>Tue, 04 Aug 2026 04:52:07 GMT</pubDate>
   </item><item>
-    <title>WAS (Web Application Server)</title>
-    <link>https://melaniayoo.github.io/quartz/was</link>
-    <guid>https://melaniayoo.github.io/quartz/was</guid>
-    <description><![CDATA[ A WAS is the server that runs the main business logic of a web application. A Spring Boot backend server can be considered a WAS. ]]></description>
-    <pubDate>Thu, 18 Jun 2026 02:26:18 GMT</pubDate>
+    <title>DAC/ADC</title>
+    <link>https://melaniayoo.github.io/quartz/semiconductor/dac</link>
+    <guid>https://melaniayoo.github.io/quartz/semiconductor/dac</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 04 Aug 2026 04:48:45 GMT</pubDate>
+  </item><item>
+    <title>IC (Integrated Circuit)</title>
+    <link>https://melaniayoo.github.io/quartz/semiconductor/ic</link>
+    <guid>https://melaniayoo.github.io/quartz/semiconductor/ic</guid>
+    <description><![CDATA[ An integrated circuit, or IC, is a small electronic circuit built on a single piece of semiconductor material, usually silicon. ]]></description>
+    <pubDate>Tue, 04 Aug 2026 04:47:25 GMT</pubDate>
+  </item><item>
+    <title>JWT (JSON Web Token)</title>
+    <link>https://melaniayoo.github.io/quartz/jwt</link>
+    <guid>https://melaniayoo.github.io/quartz/jwt</guid>
+    <description><![CDATA[ JWT (JSON Web Token) One-line summary JWT is a signed token that proves who the user is. ]]></description>
+    <pubDate>Tue, 07 Jul 2026 15:00:00 GMT</pubDate>
+  </item><item>
+    <title>MOSFET</title>
+    <link>https://melaniayoo.github.io/quartz/mosfet</link>
+    <guid>https://melaniayoo.github.io/quartz/mosfet</guid>
+    <description><![CDATA[ MOSFET: Metal-Oxide-Semicondcutor Field-Effect Transistor A MOSFET is a transistor that controls current using voltage. 1. ]]></description>
+    <pubDate>Mon, 06 Jul 2026 04:34:27 GMT</pubDate>
+  </item><item>
+    <title>KVL</title>
+    <link>https://melaniayoo.github.io/quartz/kvl</link>
+    <guid>https://melaniayoo.github.io/quartz/kvl</guid>
+    <description><![CDATA[ Kirchhoff’s Voltage Law (KVL) KVL: The sum of all voltage rises and drops around a closed loop is zero. Energy is conserved around a loop. ]]></description>
+    <pubDate>Wed, 24 Jun 2026 00:39:12 GMT</pubDate>
+  </item><item>
+    <title>KCL</title>
+    <link>https://melaniayoo.github.io/quartz/kcl</link>
+    <guid>https://melaniayoo.github.io/quartz/kcl</guid>
+    <description><![CDATA[ Kirchhoff’s Current Law (KCL) KCL: The total current entering a node equals the total current leaving the node. ]]></description>
+    <pubDate>Wed, 24 Jun 2026 00:39:12 GMT</pubDate>
   </item><item>
     <title>CIA Triad</title>
     <link>https://melaniayoo.github.io/quartz/cia-triad</link>
     <guid>https://melaniayoo.github.io/quartz/cia-triad</guid>
     <description><![CDATA[ The CIA Triad is a basic cybersecurity model used to protect information. ]]></description>
-    <pubDate>Thu, 18 Jun 2026 02:26:18 GMT</pubDate>
-  </item><item>
-    <title>CompTIA Security+</title>
-    <link>https://melaniayoo.github.io/quartz/comptia-security+</link>
-    <guid>https://melaniayoo.github.io/quartz/comptia-security+</guid>
-    <description><![CDATA[ Main Areas Security Fundamentals Cybersecurity CIA Triad Defense in Depth Zero Trust Threats and Vulnerabilities Vulnerability Management Social Engineering Risk and Governance Risk Management Cryptography and Network Security Cryptography SSL and TLS Computer Network . ]]></description>
-    <pubDate>Thu, 18 Jun 2026 02:26:18 GMT</pubDate>
-  </item><item>
-    <title>Computer Network</title>
-    <link>https://melaniayoo.github.io/quartz/computer-network</link>
-    <guid>https://melaniayoo.github.io/quartz/computer-network</guid>
-    <description><![CDATA[ A computer network is a group of connected devices that can communicate and share data with each other. ]]></description>
-    <pubDate>Thu, 18 Jun 2026 02:26:18 GMT</pubDate>
-  </item><item>
-    <title>Cryptography</title>
-    <link>https://melaniayoo.github.io/quartz/cryptography</link>
-    <guid>https://melaniayoo.github.io/quartz/cryptography</guid>
-    <description><![CDATA[ Cryptography is the practice of protecting information by converting it into a secure form. ]]></description>
-    <pubDate>Thu, 18 Jun 2026 02:26:18 GMT</pubDate>
-  </item><item>
-    <title>Cybersecurity</title>
-    <link>https://melaniayoo.github.io/quartz/cybersecurity</link>
-    <guid>https://melaniayoo.github.io/quartz/cybersecurity</guid>
-    <description><![CDATA[ Cybersecurity is about understanding how systems break, how people make mistakes, and how to protect information from threats. ]]></description>
-    <pubDate>Thu, 18 Jun 2026 02:26:18 GMT</pubDate>
-  </item><item>
-    <title>Defense in Depth</title>
-    <link>https://melaniayoo.github.io/quartz/defense-in-depth</link>
-    <guid>https://melaniayoo.github.io/quartz/defense-in-depth</guid>
-    <description><![CDATA[ Defense in Depth is a cybersecurity strategy that uses multiple layers of protection. ]]></description>
-    <pubDate>Thu, 18 Jun 2026 02:26:18 GMT</pubDate>
+    <pubDate>Thu, 18 Jun 2026 07:36:25 GMT</pubDate>
   </item>
     </channel>
   </rss>

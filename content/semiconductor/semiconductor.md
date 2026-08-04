@@ -17,9 +17,9 @@ Semiconductors are useful because their electrical behavior can be controlled.
 
 This makes them important for building electronic components such as:
 
-* diodes
-* transistors
-* integrated circuits
+* [[Diode]]
+* [[Transistor]]
+* [[IC]]
 * computer chips
 * sensors
 * memory devices
