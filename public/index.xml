@@ -10,61 +10,61 @@
     <link>https://melaniayoo.github.io/quartz/tags/certification</link>
     <guid>https://melaniayoo.github.io/quartz/tags/certification</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Tue, 04 Aug 2026 04:52:07 GMT</pubDate>
+    <pubDate>Tue, 04 Aug 2026 05:01:15 GMT</pubDate>
   </item><item>
     <title>Tag Index</title>
     <link>https://melaniayoo.github.io/quartz/tags/</link>
     <guid>https://melaniayoo.github.io/quartz/tags/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Tue, 04 Aug 2026 04:52:07 GMT</pubDate>
+    <pubDate>Tue, 04 Aug 2026 05:01:15 GMT</pubDate>
   </item><item>
-    <title>Semiconductor</title>
-    <link>https://melaniayoo.github.io/quartz/semiconductor/</link>
-    <guid>https://melaniayoo.github.io/quartz/semiconductor/</guid>
-    <description><![CDATA[ A semiconductor is a material that can act as both a conductor and an insulator depending on conditions. ]]></description>
-    <pubDate>Tue, 04 Aug 2026 04:52:07 GMT</pubDate>
+    <title>ECE106 - Electricity and Magnetism</title>
+    <link>https://melaniayoo.github.io/quartz/ece106</link>
+    <guid>https://melaniayoo.github.io/quartz/ece106</guid>
+    <description><![CDATA[  Electric Charge Electric Force Conductors Semiconductors Insulators Coulomb’s Law Electric Field Electric Potential Capacitance Current Resistance Magnetic Field Ampere’s Law Faraday’s Law Lenz’s Law Inductance . ]]></description>
+    <pubDate>Tue, 04 Aug 2026 04:54:38 GMT</pubDate>
   </item><item>
-    <title>DAC/ADC</title>
-    <link>https://melaniayoo.github.io/quartz/semiconductor/dac</link>
-    <guid>https://melaniayoo.github.io/quartz/semiconductor/dac</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Tue, 04 Aug 2026 04:48:45 GMT</pubDate>
+    <title>ECE140 - Linear Circuits</title>
+    <link>https://melaniayoo.github.io/quartz/ece140</link>
+    <guid>https://melaniayoo.github.io/quartz/ece140</guid>
+    <description><![CDATA[  Current Voltage Power Ohm’s Law KCL KVL Nodal Analysis Mesh Analysis Linearity and Superposition Source Transformation Thevenin and Norton Equivalents Maximum Power Transfer Operational Amplifiers Capacitors Inductors First-Order Circuit(Transient Analysis) Sinusoids Phasors Sinusoidal AC Steady-St... ]]></description>
+    <pubDate>Tue, 04 Aug 2026 04:54:38 GMT</pubDate>
   </item><item>
-    <title>IC (Integrated Circuit)</title>
-    <link>https://melaniayoo.github.io/quartz/semiconductor/ic</link>
-    <guid>https://melaniayoo.github.io/quartz/semiconductor/ic</guid>
-    <description><![CDATA[ An integrated circuit, or IC, is a small electronic circuit built on a single piece of semiconductor material, usually silicon. ]]></description>
-    <pubDate>Tue, 04 Aug 2026 04:47:25 GMT</pubDate>
+    <title>ECE204 - Numerical Methods</title>
+    <link>https://melaniayoo.github.io/quartz/ece204</link>
+    <guid>https://melaniayoo.github.io/quartz/ece204</guid>
+    <description><![CDATA[  Weighted Averages Iteration Interpolation Taylor Series Bracketing Intermediate Value Theorem(IVT) Horner’s Rule Least-Sqaures Best-Fitting Polynomial Newton’s Method Bisection Method Secant Method Muller’s Method Inverse Quadratic Interpolation Gauss-Seidel method Euler’s Method Heun’s method 4th-... ]]></description>
+    <pubDate>Tue, 04 Aug 2026 04:54:38 GMT</pubDate>
   </item><item>
-    <title>JWT (JSON Web Token)</title>
-    <link>https://melaniayoo.github.io/quartz/jwt</link>
-    <guid>https://melaniayoo.github.io/quartz/jwt</guid>
-    <description><![CDATA[ JWT (JSON Web Token) One-line summary JWT is a signed token that proves who the user is. ]]></description>
-    <pubDate>Tue, 07 Jul 2026 15:00:00 GMT</pubDate>
+    <title>ECE205 - Advanced Calculus 1</title>
+    <link>https://melaniayoo.github.io/quartz/ece205</link>
+    <guid>https://melaniayoo.github.io/quartz/ece205</guid>
+    <description><![CDATA[  First Order Differential Equation Second Order Differential Equation Harmonic Oscillator Laplace Transform Fourier Series Partial Differential Equation (PDE) . ]]></description>
+    <pubDate>Tue, 04 Aug 2026 04:54:38 GMT</pubDate>
   </item><item>
-    <title>MOSFET</title>
-    <link>https://melaniayoo.github.io/quartz/mosfet</link>
-    <guid>https://melaniayoo.github.io/quartz/mosfet</guid>
-    <description><![CDATA[ MOSFET: Metal-Oxide-Semicondcutor Field-Effect Transistor A MOSFET is a transistor that controls current using voltage. 1. ]]></description>
-    <pubDate>Mon, 06 Jul 2026 04:34:27 GMT</pubDate>
+    <title>ECE222 - Digital Computers</title>
+    <link>https://melaniayoo.github.io/quartz/ece222</link>
+    <guid>https://melaniayoo.github.io/quartz/ece222</guid>
+    <description><![CDATA[ Core Topics Computer Architecture Basics Computer Architecture Instruction Set Architecture CPU Performance Execution Time Amdahl’s Law Program Counter Memory Hierarchy RISC-V Assembly RISC-V RISC-V Registers RISC-V Instructions RISC-V Data Transfer Instructions RISC-V Logical Operations RISC-V Bran... ]]></description>
+    <pubDate>Tue, 04 Aug 2026 04:54:38 GMT</pubDate>
   </item><item>
-    <title>KVL</title>
-    <link>https://melaniayoo.github.io/quartz/kvl</link>
-    <guid>https://melaniayoo.github.io/quartz/kvl</guid>
-    <description><![CDATA[ Kirchhoff’s Voltage Law (KVL) KVL: The sum of all voltage rises and drops around a closed loop is zero. Energy is conserved around a loop. ]]></description>
-    <pubDate>Wed, 24 Jun 2026 00:39:12 GMT</pubDate>
+    <title>ECE240 - Electronic Circuits 1</title>
+    <link>https://melaniayoo.github.io/quartz/ece240</link>
+    <guid>https://melaniayoo.github.io/quartz/ece240</guid>
+    <description><![CDATA[  Comparator . ]]></description>
+    <pubDate>Tue, 04 Aug 2026 04:54:38 GMT</pubDate>
+  </item><item>
+    <title>ECE250 - Algorithms and Data Structures</title>
+    <link>https://melaniayoo.github.io/quartz/ece250</link>
+    <guid>https://melaniayoo.github.io/quartz/ece250</guid>
+    <description><![CDATA[  Linked List Trees Heaps &amp; Priority Queue Hash Table Sorting Graphs . ]]></description>
+    <pubDate>Tue, 04 Aug 2026 04:54:38 GMT</pubDate>
   </item><item>
     <title>KCL</title>
     <link>https://melaniayoo.github.io/quartz/kcl</link>
     <guid>https://melaniayoo.github.io/quartz/kcl</guid>
     <description><![CDATA[ Kirchhoff’s Current Law (KCL) KCL: The total current entering a node equals the total current leaving the node. ]]></description>
-    <pubDate>Wed, 24 Jun 2026 00:39:12 GMT</pubDate>
-  </item><item>
-    <title>CIA Triad</title>
-    <link>https://melaniayoo.github.io/quartz/cia-triad</link>
-    <guid>https://melaniayoo.github.io/quartz/cia-triad</guid>
-    <description><![CDATA[ The CIA Triad is a basic cybersecurity model used to protect information. ]]></description>
-    <pubDate>Thu, 18 Jun 2026 07:36:25 GMT</pubDate>
+    <pubDate>Tue, 04 Aug 2026 04:54:38 GMT</pubDate>
   </item>
     </channel>
   </rss>
