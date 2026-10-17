@@ -20,7 +20,7 @@ An SoC may include:
 
 # Main Uses
 
-* smartphones
+* smartphones ([[Mobile AP]])
 * tablets
 * smartwatches
 * embedded systems

@@ -1,322 +1,373 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://melaniayoo.github.io/quartz/computer/alu</loc>
-    <lastmod>2026-08-05T02:23:50.592Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/computer/bit-byte</loc>
-    <lastmod>2026-08-06T08:14:40.187Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/computer/bus</loc>
-    <lastmod>2026-08-05T02:31:50.171Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/computer/control-unit</loc>
-    <lastmod>2026-08-05T05:00:18.677Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/computer/cpu</loc>
-    <lastmod>2026-08-05T02:26:44.063Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/computer/dram</loc>
-    <lastmod>2026-08-05T00:36:17.878Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/computer/dsp</loc>
-    <lastmod>2026-08-05T06:35:41.169Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/computer/flash-memory</loc>
-    <lastmod>2026-08-04T07:39:46.742Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/computer/gpu</loc>
-    <lastmod>2026-08-05T04:23:27.606Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/computer/mcu</loc>
-    <lastmod>2026-08-05T02:29:27.122Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/computer/memory</loc>
-    <lastmod>2026-08-04T08:28:31.824Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/computer/nand-flash</loc>
-    <lastmod>2026-08-04T07:40:38.943Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/computer/nor-flash</loc>
-    <lastmod>2026-08-04T07:39:46.742Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/computer/register</loc>
-    <lastmod>2026-08-05T02:30:49.803Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/computer/rom</loc>
-    <lastmod>2026-08-05T01:08:42.527Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/computer/sram</loc>
-    <lastmod>2026-08-05T01:05:55.045Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/computer/ssd</loc>
-    <lastmod>2026-08-05T02:21:18.400Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/computer/thread-scheduling</loc>
-    <lastmod>2026-06-16T01:11:17.575Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/computer/thread</loc>
-    <lastmod>2026-06-16T01:10:58.245Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/cybersecurity/cia-triad</loc>
-    <lastmod>2026-06-18T07:16:37.126Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/cybersecurity/comptia-security+</loc>
-    <lastmod>2026-06-18T07:29:55.273Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/cybersecurity/computer-network</loc>
-    <lastmod>2026-06-18T07:24:07.674Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/cybersecurity/cryptography</loc>
-    <lastmod>2026-06-18T07:21:35.398Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/cybersecurity/</loc>
-    <lastmod>2026-06-18T07:28:27.826Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/cybersecurity/defense-in-depth</loc>
-    <lastmod>2026-06-18T07:18:35.050Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/cybersecurity/risk-management</loc>
-    <lastmod>2026-06-18T07:14:16.314Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/cybersecurity/social-engineering</loc>
-    <lastmod>2026-06-18T07:10:59.180Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/cybersecurity/ssl-and-tls</loc>
-    <lastmod>2026-06-18T07:30:21.253Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/cybersecurity/vulnerability-management</loc>
-    <lastmod>2026-06-18T07:05:53.010Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/cybersecurity/zero-trust</loc>
-    <lastmod>2026-06-18T07:01:43.251Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/ece231/</loc>
-    <lastmod>2026-09-10T17:33:18.722Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/ece231/module-1.1</loc>
-    <lastmod>2026-09-10T17:27:17.301Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/circuit-analysis/ac-circuit-analysis</loc>
-    <lastmod>2026-08-06T06:12:13.571Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/circuit-analysis/bode-plot</loc>
-    <lastmod>2026-08-13T08:22:27.624Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/circuit-analysis/dc-circuit-analysis</loc>
-    <lastmod>2026-08-06T06:12:21.420Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/circuit-analysis/kcl</loc>
-    <lastmod>2026-06-24T00:39:12.857Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/circuit-analysis/kvl</loc>
-    <lastmod>2026-06-24T00:39:12.864Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/circuit-analysis/noise</loc>
-    <lastmod>2026-08-13T01:30:00.984Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/circuit-analysis/norton</loc>
-    <lastmod>2026-08-10T01:31:51.625Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/circuit-analysis/pole-zero</loc>
-    <lastmod>2026-08-13T08:24:05.542Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/circuit-analysis/thevenin</loc>
-    <lastmod>2026-08-10T01:31:20.524Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/electronic-devices/amplifier/adder</loc>
-    <lastmod>2026-08-10T01:33:11.855Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/electronic-devices/amplifier/</loc>
-    <lastmod>2026-08-06T00:50:08.509Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/electronic-devices/amplifier/bandwidth</loc>
-    <lastmod>2026-08-06T08:28:48.414Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/electronic-devices/amplifier/buffer</loc>
-    <lastmod>2026-08-10T01:33:16.252Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/electronic-devices/amplifier/comparator</loc>
-    <lastmod>2026-08-07T00:59:24.301Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/electronic-devices/amplifier/op-amp</loc>
-    <lastmod>2026-08-07T00:54:00.978Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/electronic-devices/amplifier/phase-margin</loc>
-    <lastmod>2026-08-29T04:57:30.892Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/electronic-devices/capacitor</loc>
-    <lastmod>2026-08-13T01:27:41.285Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/electronic-devices/diode</loc>
-    <lastmod>2026-08-06T06:21:39.445Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/electronic-devices/mosfet</loc>
-    <lastmod>2026-07-06T04:34:27.799Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/electronic-devices/resistor</loc>
-    <lastmod>2026-08-13T01:27:35.605Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/electronic-devices/switching-converter</loc>
-    <lastmod>2026-08-07T00:42:27.562Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/electronic-devices/transistor</loc>
-    <lastmod>2026-08-06T06:11:54.568Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/electronic-devices/voltage-regulator</loc>
-    <lastmod>2026-08-07T00:39:53.831Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/dac</loc>
-    <lastmod>2026-08-06T05:52:02.464Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/digital-logic-design</loc>
-    <lastmod>2026-08-07T01:07:43.905Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/doping</loc>
-    <lastmod>2026-08-06T07:34:12.581Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/eda</loc>
-    <lastmod>2026-08-07T01:32:03.516Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/feedback-system</loc>
-    <lastmod>2026-08-13T08:19:33.142Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/hardware-scripting</loc>
-    <lastmod>2026-08-07T01:19:30.655Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/hdl</loc>
-    <lastmod>2026-08-07T01:14:23.506Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/ic</loc>
-    <lastmod>2026-08-05T07:51:40.707Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/industry</loc>
-    <lastmod>2026-08-10T01:20:09.345Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/mixed-signal</loc>
-    <lastmod>2026-08-10T01:29:48.864Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/ripple</loc>
-    <lastmod>2026-08-13T04:36:53.805Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/semiconductor-manufacturing-process</loc>
-    <lastmod>2026-08-10T01:05:30.190Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/</loc>
-    <lastmod>2026-08-06T07:39:21.218Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/signal</loc>
-    <lastmod>2026-08-06T05:51:11.818Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/soc</loc>
-    <lastmod>2026-08-05T02:33:07.495Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/stimulus</loc>
-    <lastmod>2026-08-13T04:30:31.558Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/topology</loc>
-    <lastmod>2026-08-11T02:32:17.170Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/uvm</loc>
-    <lastmod>2026-08-07T01:30:26.352Z</lastmod>
-  </url><url>
     <loc>https://melaniayoo.github.io/quartz/</loc>
     <lastmod>2026-06-15T04:51:59.000Z</lastmod>
   </url><url>
+    <loc>https://melaniayoo.github.io/quartz/computer/alu</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/computer/bit-byte</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/computer/bus</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/computer/clock-rate</loc>
+    <lastmod>2026-09-21T02:44:41.695Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/computer/control-unit</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/computer/cpu</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/computer/dram</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/computer/dsp</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/computer/flash-memory</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/computer/gpu</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/computer/mcu</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/computer/memory</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/computer/nand-flash</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/computer/nor-flash</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/computer/npu</loc>
+    <lastmod>2026-09-21T02:19:34.921Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/computer/register</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/computer/rom</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/computer/sram</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/computer/ssd</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/computer/thread-scheduling</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/computer/thread</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/cybersecurity/cia-triad</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/cybersecurity/comptia-security+</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/cybersecurity/computer-network</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/cybersecurity/cryptography</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/cybersecurity/</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/cybersecurity/defense-in-depth</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/cybersecurity/risk-management</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/cybersecurity/social-engineering</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/cybersecurity/ssl-and-tls</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/cybersecurity/vulnerability-management</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/cybersecurity/zero-trust</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/university/1-ph-circuits</loc>
+    <lastmod>2026-09-27T23:06:09.045Z</lastmod>
+  </url><url>
     <loc>https://melaniayoo.github.io/quartz/university/axioms-of-probability</loc>
-    <lastmod>2026-09-10T22:39:11.863Z</lastmod>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/university/basic-principle-of-counting</loc>
-    <lastmod>2026-09-10T21:30:35.407Z</lastmod>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/university/digital-timer-pcb</loc>
+    <lastmod>2026-09-29T21:30:49.041Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/university/ece106</loc>
-    <lastmod>2026-06-18T07:49:37.515Z</lastmod>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/university/ece108</loc>
-    <lastmod>2026-09-10T22:03:53.218Z</lastmod>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/university/ece124</loc>
-    <lastmod>2026-06-16T01:15:52.017Z</lastmod>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/university/ece140</loc>
-    <lastmod>2026-06-18T07:56:03.514Z</lastmod>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/university/ece203</loc>
-    <lastmod>2026-09-10T22:19:32.043Z</lastmod>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/university/ece204</loc>
-    <lastmod>2026-06-19T01:00:02.167Z</lastmod>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/university/ece205</loc>
-    <lastmod>2026-06-19T00:40:44.494Z</lastmod>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/university/ece206</loc>
-    <lastmod>2026-09-10T16:55:04.582Z</lastmod>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/university/ece207</loc>
-    <lastmod>2026-09-10T16:55:22.447Z</lastmod>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/university/ece222</loc>
-    <lastmod>2026-06-19T01:04:31.468Z</lastmod>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/university/ece240</loc>
-    <lastmod>2026-08-04T04:48:38.436Z</lastmod>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/university/ece250</loc>
-    <lastmod>2026-06-19T01:07:45.236Z</lastmod>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/university/ece260</loc>
-    <lastmod>2026-09-10T16:56:08.512Z</lastmod>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/university/ece298</loc>
-    <lastmod>2026-09-10T16:56:42.236Z</lastmod>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/university/magnetic-circuits</loc>
+    <lastmod>2026-10-07T19:45:09.215Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/university/overview-of-power-systems</loc>
+    <lastmod>2026-09-26T04:15:09.827Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/university/power-factor-correction</loc>
+    <lastmod>2026-09-26T06:44:48.765Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/university/sample-space-and-events</loc>
-    <lastmod>2026-09-10T22:03:53.218Z</lastmod>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/university/sample-spaces-having-equally-likely-outcomes</loc>
-    <lastmod>2026-09-10T22:55:55.344Z</lastmod>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/university/single-phase-systems</loc>
+    <lastmod>2026-09-26T05:39:08.682Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/university/three-phase-systems</loc>
+    <lastmod>2026-09-30T17:08:39.125Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/university/university-of-waterloo</loc>
-    <lastmod>2026-09-10T21:54:56.633Z</lastmod>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/ece231/</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/ece231/laboratory-instruments</loc>
+    <lastmod>2026-09-23T15:17:46.755Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/ece231/materials-and-crystal-structure</loc>
+    <lastmod>2026-10-07T22:45:53.390Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/web/was</loc>
-    <lastmod>2026-06-18T02:09:01.163Z</lastmod>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/web/jwt</loc>
     <lastmod>2026-07-08T04:00:00.000Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/web/load-balancing</loc>
-    <lastmod>2026-06-18T02:06:01.599Z</lastmod>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/web/redis</loc>
-    <lastmod>2026-06-18T02:07:46.861Z</lastmod>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/web/svn</loc>
-    <lastmod>2026-08-06T06:16:55.123Z</lastmod>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/web/websocket</loc>
-    <lastmod>2026-06-18T02:10:53.343Z</lastmod>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/electronic-devices/capacitor</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/electronic-devices/diode</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/electronic-devices/mosfet</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/electronic-devices/resistor</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/electronic-devices/switching-converter</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/electronic-devices/transistor</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/electronic-devices/voltage-regulator</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/circuit-analysis/ac-circuit-analysis</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/circuit-analysis/bode-plot</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/circuit-analysis/dc-circuit-analysis</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/circuit-analysis/kcl</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/circuit-analysis/kvl</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/circuit-analysis/noise</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/circuit-analysis/norton</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/circuit-analysis/pole-zero</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/circuit-analysis/thevenin</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/dac</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/ddi</loc>
+    <lastmod>2026-09-21T02:22:07.133Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/digital-logic-design</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/doping</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/eda</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/euv</loc>
+    <lastmod>2026-09-21T02:12:32.822Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/feedback-system</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/hardware-scripting</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/hdl</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/ic</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/industry</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/mixed-signal</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/mobile-ap</loc>
+    <lastmod>2026-09-21T03:04:19.124Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/module</loc>
+    <lastmod>2026-09-21T02:47:03.912Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/nanometer</loc>
+    <lastmod>2026-09-21T02:10:58.878Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/pmic</loc>
+    <lastmod>2026-09-21T03:17:42.169Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/ripple</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/semiconductor-manufacturing-process</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/sensor</loc>
+    <lastmod>2026-09-21T03:12:02.379Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/signal</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/soc</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/stimulus</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/topology</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/semiconductor/uvm</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/electronic-devices/amplifier/adder</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/electronic-devices/amplifier/</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/electronic-devices/amplifier/bandwidth</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/electronic-devices/amplifier/buffer</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/electronic-devices/amplifier/comparator</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/electronic-devices/amplifier/op-amp</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/electronic-devices/amplifier/phase-margin</loc>
+    <lastmod>2026-09-11T16:34:40.000Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/computer/</loc>
-    <lastmod>2026-09-10T23:16:10.739Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/circuit-analysis/</loc>
-    <lastmod>2026-09-10T23:16:10.739Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/</loc>
-    <lastmod>2026-09-10T23:16:10.739Z</lastmod>
-  </url><url>
-    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/electronic-devices/</loc>
-    <lastmod>2026-09-10T23:16:10.739Z</lastmod>
+    <lastmod>2026-10-08T10:35:16.913Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/university/</loc>
-    <lastmod>2026-09-10T23:16:10.739Z</lastmod>
+    <lastmod>2026-10-08T10:35:16.913Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/web/</loc>
-    <lastmod>2026-09-10T23:16:10.739Z</lastmod>
+    <lastmod>2026-10-08T10:35:16.913Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/electronic-devices/</loc>
+    <lastmod>2026-10-08T10:35:16.913Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/</loc>
+    <lastmod>2026-10-08T10:35:16.913Z</lastmod>
+  </url><url>
+    <loc>https://melaniayoo.github.io/quartz/electrical-engineering/circuit-analysis/</loc>
+    <lastmod>2026-10-08T10:35:16.913Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/tags/certification</loc>
-    <lastmod>2026-09-10T23:16:10.739Z</lastmod>
+    <lastmod>2026-10-08T10:35:16.913Z</lastmod>
   </url><url>
     <loc>https://melaniayoo.github.io/quartz/tags/</loc>
-    <lastmod>2026-09-10T23:16:10.739Z</lastmod>
+    <lastmod>2026-10-08T10:35:16.913Z</lastmod>
   </url></urlset>

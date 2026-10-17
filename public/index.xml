@@ -10,61 +10,61 @@
     <link>https://melaniayoo.github.io/quartz/computer/</link>
     <guid>https://melaniayoo.github.io/quartz/computer/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Thu, 10 Sep 2026 23:16:10 GMT</pubDate>
-  </item><item>
-    <title>circuit-analysis</title>
-    <link>https://melaniayoo.github.io/quartz/electrical-engineering/circuit-analysis/</link>
-    <guid>https://melaniayoo.github.io/quartz/electrical-engineering/circuit-analysis/</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Thu, 10 Sep 2026 23:16:10 GMT</pubDate>
-  </item><item>
-    <title>electrical engineering</title>
-    <link>https://melaniayoo.github.io/quartz/electrical-engineering/</link>
-    <guid>https://melaniayoo.github.io/quartz/electrical-engineering/</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Thu, 10 Sep 2026 23:16:10 GMT</pubDate>
-  </item><item>
-    <title>electronic-devices</title>
-    <link>https://melaniayoo.github.io/quartz/electrical-engineering/electronic-devices/</link>
-    <guid>https://melaniayoo.github.io/quartz/electrical-engineering/electronic-devices/</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Thu, 10 Sep 2026 23:16:10 GMT</pubDate>
+    <pubDate>Thu, 08 Oct 2026 10:35:16 GMT</pubDate>
   </item><item>
     <title>university</title>
     <link>https://melaniayoo.github.io/quartz/university/</link>
     <guid>https://melaniayoo.github.io/quartz/university/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Thu, 10 Sep 2026 23:16:10 GMT</pubDate>
+    <pubDate>Thu, 08 Oct 2026 10:35:16 GMT</pubDate>
   </item><item>
     <title>web</title>
     <link>https://melaniayoo.github.io/quartz/web/</link>
     <guid>https://melaniayoo.github.io/quartz/web/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Thu, 10 Sep 2026 23:16:10 GMT</pubDate>
+    <pubDate>Thu, 08 Oct 2026 10:35:16 GMT</pubDate>
+  </item><item>
+    <title>electronic-devices</title>
+    <link>https://melaniayoo.github.io/quartz/electrical-engineering/electronic-devices/</link>
+    <guid>https://melaniayoo.github.io/quartz/electrical-engineering/electronic-devices/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Thu, 08 Oct 2026 10:35:16 GMT</pubDate>
+  </item><item>
+    <title>electrical engineering</title>
+    <link>https://melaniayoo.github.io/quartz/electrical-engineering/</link>
+    <guid>https://melaniayoo.github.io/quartz/electrical-engineering/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Thu, 08 Oct 2026 10:35:16 GMT</pubDate>
+  </item><item>
+    <title>circuit-analysis</title>
+    <link>https://melaniayoo.github.io/quartz/electrical-engineering/circuit-analysis/</link>
+    <guid>https://melaniayoo.github.io/quartz/electrical-engineering/circuit-analysis/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Thu, 08 Oct 2026 10:35:16 GMT</pubDate>
   </item><item>
     <title>certification</title>
     <link>https://melaniayoo.github.io/quartz/tags/certification</link>
     <guid>https://melaniayoo.github.io/quartz/tags/certification</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Thu, 10 Sep 2026 23:16:10 GMT</pubDate>
+    <pubDate>Thu, 08 Oct 2026 10:35:16 GMT</pubDate>
   </item><item>
     <title>Tag Index</title>
     <link>https://melaniayoo.github.io/quartz/tags/</link>
     <guid>https://melaniayoo.github.io/quartz/tags/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Thu, 10 Sep 2026 23:16:10 GMT</pubDate>
+    <pubDate>Thu, 08 Oct 2026 10:35:16 GMT</pubDate>
   </item><item>
-    <title>Sample Spaces with Equally Likely Outcomes</title>
-    <link>https://melaniayoo.github.io/quartz/university/sample-spaces-having-equally-likely-outcomes</link>
-    <guid>https://melaniayoo.github.io/quartz/university/sample-spaces-having-equally-likely-outcomes</guid>
-    <description><![CDATA[ If all outcomes in a sample space S are equally likely, then for an event E, P(E)=\frac{|E|}{|S|} So many probability problems reduce to counting the number of favorable outcomes and total outcomes. ]]></description>
-    <pubDate>Thu, 10 Sep 2026 22:55:55 GMT</pubDate>
+    <title>Materials and Crystal Structure</title>
+    <link>https://melaniayoo.github.io/quartz/ece231/materials-and-crystal-structure</link>
+    <guid>https://melaniayoo.github.io/quartz/ece231/materials-and-crystal-structure</guid>
+    <description><![CDATA[ Resistivity Resistivity describes how strongly a material opposes current. Resistance also depends on the sample’s dimensions. ]]></description>
+    <pubDate>Wed, 07 Oct 2026 22:45:53 GMT</pubDate>
   </item><item>
-    <title>Axioms of Probability</title>
-    <link>https://melaniayoo.github.io/quartz/university/axioms-of-probability</link>
-    <guid>https://melaniayoo.github.io/quartz/university/axioms-of-probability</guid>
-    <description><![CDATA[ A probability is assigned to each event E and written as P[E] Axiom 1: Probability Bounds For any event E, 0\le P(E)\le1 Axiom 2: Total Probability The probability of the entire sample space is P(S)=1 Axiom 3: Additivity for Disjoint Events If E_1,E_2,\dots are disjoint, then P\left(\bigcup_{i=1}^{\... ]]></description>
-    <pubDate>Thu, 10 Sep 2026 22:39:11 GMT</pubDate>
+    <title>Magnetic Circuits</title>
+    <link>https://melaniayoo.github.io/quartz/university/magnetic-circuits</link>
+    <guid>https://melaniayoo.github.io/quartz/university/magnetic-circuits</guid>
+    <description><![CDATA[  Module topics: Magnetic fields, induced electromagnetic forces, magnetic properties of materials, magnetization characteristics, hysteresis loops, eddy currents, leakage flux, magnetic circuit analysis, Faraday’s law, and Lenz’s law. ]]></description>
+    <pubDate>Wed, 07 Oct 2026 19:45:09 GMT</pubDate>
   </item>
     </channel>
   </rss>

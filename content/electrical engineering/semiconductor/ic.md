@@ -2,7 +2,7 @@
 title: IC (Integrated Circuit)
 ---
 
-An integrated circuit, or IC, is a small electronic circuit built on a single piece of semiconductor material, usually silicon.
+An integrated circuit, or IC (chip), is a small electronic circuit built on a single piece of semiconductor material, usually silicon.
 
 # IC, Chip, and Semiconductor
 

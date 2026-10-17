@@ -46,7 +46,7 @@ Major companies include:
 ## IDM
 
 IDM stands for **Integrated Device Manufacturer**.
-
+(design --> production --> sales)
 An IDM company designs and manufactures its own semiconductor chips.
 
 Examples:
@@ -91,12 +91,19 @@ A major example is:
 
 TSMC is a Taiwanese semiconductor company and one of the world's major semiconductor foundries.
 
-# Fab
+## Design House
 
-A semiconductor manufacturing facility is commonly called a **fab**, short for **fabrication facility**.
-A fab contains highly specialized equipment used to manufacture chips on silicon wafers.
+A bridge that connects a fabless and foundry. It optimizes fabless company's design so that it's suitable for production facilities at foundry. 
 
-# ASML
+## IP Companies
+
+They provide specific designs called "Cell Library" to a fabless. IP companies only sell design licenses and does not manufacture products of its own brand. 
+
+## OSAT
+
+Outsourced Semiconductor Assembly and Test companies, they handle testing and packaging semiconductors from foundaries. 
+
+### ASML
 
 ASML is a company that produces advanced equipment used in semiconductor manufacturing.
 

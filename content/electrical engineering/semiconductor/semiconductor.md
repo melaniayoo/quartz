@@ -3,7 +3,7 @@ title: Semiconductor
 ---
 
 A semiconductor is a material whose electrical conductivity can be controlled.
-It behaves between a conductor and an insulator.
+It behaves between a conductor(materials that allow current to flow) and an insulator(materials that don't allow current to flow).
 
 # Bandgap
 
@@ -30,9 +30,11 @@ An electron can conduct electricity after gaining enough energy to cross the ban
 
 Examples:
 
-* conductors: copper, silver, aluminum
+* conductors: gold, copper, iron, aluminum
 * semiconductors: silicon, germanium, gallium arsenide
-* insulators: glass, rubber, ceramics
+* insulators: glass, rubber, plastic, wood, diamond
+
+By artificailly adding impurities into a semiconductor, you can control the flow of current. 
 
 # Conductivity
 
@@ -77,6 +79,7 @@ PN junctions are used in:
 ## Silicon
 
 Silicon is the most widely used semiconductor.
+Silicon crystal has low electrical conductivity and high resistance, so by adding impurities into it, we can make it have or not have current flow. 
 
 It is used in:
 

@@ -20,6 +20,11 @@ SSDs store:
 An SSD stores data in NAND Flash memory.
 A controller manages where data is written, read, and erased.
 
+SSD consists of:
+* controller
+* NAND Flash
+* DRAM
+
 # SSD vs. HDD
 
 | SSD                         | HDD                  |

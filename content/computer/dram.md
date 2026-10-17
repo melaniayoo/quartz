@@ -15,6 +15,8 @@ Each DRAM cell stores one bit of data using:
 The capacitor gradually loses its electrical charge, so the data must be refreshed repeatedly.
 This is why it is called dynamic memory.
 
+It's beneficial to have many cells per unit area. In order to do that, we can make the distance between transistors narrower --> chip size gets smaller --> more chips on one wafer --> cost of production decreases --> price gets lower --> power consumption is reduced
+
 # Main Uses
 
 * computers
